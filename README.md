@@ -14,7 +14,8 @@ O trabalho que você deve desenvolver terá 3 etapas:
 
 1. Construção da interface, de acordo com o modelo abaixo. Não precisa ficar igual, mas precisa ter os mesmos elementos.
 
- 
+ ![QUE_106061_328014_1](https://user-images.githubusercontent.com/86980867/180031345-614f7df0-147a-47ef-b03a-2700cdd19db6.png)
+
 
 2. Criação da fila de atendimento.
 
